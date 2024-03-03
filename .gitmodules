@@ -1,3 +1,7 @@
 [submodule "submodule-child"]
 	path = submodule-child
 	url = https://github.com/dpstkdls/submodule-child.git
+[submodule "src/child2"]
+	path = src/child2
+	url = https://github.com/dpstkdls/submodule-child2.git
+	branch = develop
